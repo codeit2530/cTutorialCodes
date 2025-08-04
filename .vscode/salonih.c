@@ -13,13 +13,13 @@ int main()
         printf("%d it is fibonnaci series\n",i);
         i++;
     }
-    //if(b==n)
-    //{
-    //    printf("it is fibonnaci series\n");
-    //}
-    //else
-    //{
-     //   printf("it is not fibonnaci series\n");
-   // }
+    if(b==n)
+    {
+        printf("it is fibonnaci series\n");
+    }
+    else
+    {
+        printf("it is not fibonnaci series\n");
+    }
     return 0;
 }
